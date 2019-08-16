@@ -32,6 +32,10 @@
 
 ## 北京
 
+[2019年6月北京面签](./北京/2019年6月30日北京签证.md)
+
+![事情](./res/2019年6月30日北京签证/各种事.jpg)
+
 ---
 
 ## Starbucks
@@ -39,3 +43,7 @@
 [2018年11月18日-Starbucks打工的日常](./Starbucks/2018年11月18日.md)
 
 ![店](./res/2018年11月18日Starbucks/咱们店.jpg)
+
+[2019年4月24日Outing](./Starbucks/2019年4月24日Outing.md)
+
+![2019年4月24日Outing](./res/2019年4月24日StarbucksOuting/烤3.jpg)
